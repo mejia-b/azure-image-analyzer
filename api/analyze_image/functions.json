@@ -1,0 +1,13 @@
+{
+    "scriptFile": "function_image_analyzer.py",
+    "bindings": [
+      {
+        "name": "myblob",
+        "type": "blobTrigger",
+        "direction": "in",
+        "path": "image-container/{name}",
+        "connection": "AzureWebJobsStorage"
+      }
+    ]
+  }
+  
