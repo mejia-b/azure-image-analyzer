@@ -183,5 +183,5 @@ __pycache__/
 local.settings.json
 
 # VSCode
-.vscode/
 
+.python_packages
