@@ -17,6 +17,4 @@ def main(myblob: func.InputStream):
     for container in containers:
         logging.info(f"Container found: {container['name']}")
     
-    # Your image processing logic here
-
     # image processing

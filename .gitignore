@@ -185,3 +185,8 @@ local.settings.json
 # VSCode
 
 .python_packages
+
+# .NET build
+\bin
+\obj
+extensions.csproj

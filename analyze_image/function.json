@@ -1,5 +1,5 @@
 {
-    "scriptFile": "function_image_analyzer.py",
+    "scriptFile": "__init__.py",
     "bindings": [
       {
         "name": "myblob",
